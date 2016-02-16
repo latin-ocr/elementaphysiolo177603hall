@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./elementaphysiolo177603hall_0002.png"; bbox 0 0 2535 3601; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 973 1023 1520 1093">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 973 1023 1520 1093">
+     <span class='ocr_line' id='line_1_1' title="bbox 973 1023 1520 1093; baseline 0 -18"><span class='ocrx_word' id='word_1_1' title='bbox 973 1023 1213 1075; x_wconf 83' lang='lat' dir='ltr'>Brandeis</span> <span class='ocrx_word' id='word_1_2' title='bbox 1236 1026 1520 1093; x_wconf 70' lang='lat' dir='ltr'><strong>University</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 893 1238 1575 1299">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 893 1238 1575 1299">
+     <span class='ocr_line' id='line_1_2' title="bbox 893 1238 1575 1299; baseline 0 -11"><span class='ocrx_word' id='word_1_3' title='bbox 893 1238 1169 1299; x_wconf 84' lang='lat' dir='ltr'>Waltharn‚</span> <span class='ocrx_word' id='word_1_4' title='bbox 1192 1238 1575 1288; x_wconf 86' lang='lat' dir='ltr'>Massachusetts</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1076 1887 1390 1998">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1076 1887 1390 1998">
+     <span class='ocr_line' id='line_1_3' title="bbox 1108 1887 1334 1932; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 1108 1887 1233 1932; x_wconf 66' lang='lat' dir='ltr'>Gift</span> <span class='ocrx_word' id='word_1_6' title='bbox 1274 1887 1334 1931; x_wconf 71' lang='lat' dir='ltr'>of</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1076 1954 1390 1998; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1076 1954 1159 1998; x_wconf 71' lang='lat' dir='ltr'>Dr.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1209 1954 1234 1998; x_wconf 70' lang='grc' dir='ltr'>ἅ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1273 1955 1390 1998; x_wconf 62' lang='grc' dir='ltr'>ΜΓΞ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1011 2020 1434 2139">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1011 2020 1434 2139">
+     <span class='ocr_line' id='line_1_5' title="bbox 1011 2020 1432 2066; baseline -0.005 0"><span class='ocrx_word' id='word_1_10' title='bbox 1011 2022 1233 2066; x_wconf 69' lang='lat' dir='ltr'>Hermann</span> <span class='ocrx_word' id='word_1_11' title='bbox 1275 2020 1432 2065; x_wconf 69' lang='lat' dir='ltr'>Lisco</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1011 2085 1434 2139; baseline -0.002 -8"><span class='ocrx_word' id='word_1_12' title='bbox 1011 2085 1327 2139; x_wconf 59' lang='grc' dir='ltr'>ΒΓΟΟΚῚἺΗΘ,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1373 2085 1434 2130; x_wconf 61' lang='lat' dir='ltr'>MA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 743 856 1750 2327">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 743 856 1750 2327">
+     <span class='ocr_line' id='line_1_7' title="bbox 743 856 1750 2327; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 743 856 1750 2327; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
